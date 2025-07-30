@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Sushant Katwal
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+%26+Python+Enthusiast;API+Architecture+Specialist;Always+Learning+New+Things" alt="Typing SVG" />
@@ -73,24 +73,10 @@
 - ✅ Push notifications
 - ✅ Anonymous profiles
 
-### 🚀 [Project Name](https://github.com/yourusername/project)
-> Brief description of another cool project you've worked on.
-
-**Tech Stack:** Technologies used
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-
-### 📱 [Another Project](https://github.com/yourusername/another-project)
-> Description of this project and what problems it solves.
-
-**Tech Stack:** Technologies used
-- ✅ Key feature
-- ✅ Another feature
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantkat&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 💻 Random Dev Quote
